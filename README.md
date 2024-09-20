@@ -30,7 +30,7 @@ Founder of Gemma's Learning Hub and a dedicated Computer Science & Engineering s
 
 
 
-- 🌐 Visit my [Twitter](https://twitter.com/Arshpreet4249) to get in touch.
+- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/arshpreet-kaur-370462221/) to get in touch.
 
 - 👋 Currently working on creating good projects.
 
