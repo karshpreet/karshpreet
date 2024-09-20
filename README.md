@@ -1,63 +1,85 @@
-<div id="header" align="center">
+[![Neon Green Futuristic Twitch Banner](https://github.com/karshpreet/karshpreet/blob/ARSHPREET-KAUR/Arshpreet%20Bio.png?raw=true)]()
 
-  <img src="https://github.com/karshpreet/karshpreet/blob/ARSHPREET-KAUR/WhatsApp%20Image%202024-09-20%20at%206.11.57%20PM.jpeg?raw=true"/>
+<h1 align="center">Hi 👋, I'm Arshpreet Kaur</h1>
+<h3 align="center">Goal-driven learner, embracing the journey!</h3>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karshpreet" alt="karshpreet" />
+  </a>
+</p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<div id="badges">
+<!-- Visitor Badge -->
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=karshpreet&repo=github-visitors-badge&countColor=%237B1E7A)
 
-  <a href="https://www.linkedin.com/in/arshpreet-kaur-370462221/">
+<!-- Portfolio (Not built yet) -->
 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+<!-- Medium profile not available yet -->
 
-  </a>
+* 📫 How to reach me **arshpreetkaur9243@gmail.com**
 
-  <a href="https://twitter.com/Arshpreet4249">
-
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile"/>
-
-  </a>
-
-</div>
-
-
-
-# Hi 👋 I am Arshpreet !  
-
-Founder of Gemma's Learning Hub and a dedicated Computer Science & Engineering student, I’m passionate about empowering neurodivergent individuals by creating a supportive, inclusive platform where their unique talents can thrive. With a strong academic foundation and a hands-on approach, I balance my studies with entrepreneurship, driven by the desire to make a meaningful impact in both fields. Let’s collaborate to unlock potential, foster innovation, and redefine success for all. Together, we can create opportunities that celebrate diversity and drive forward inclusive growth.
-
-</div>
-
-
-
-- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/arshpreet-kaur-370462221/) to get in touch.
-
-- 👋 Currently working on creating good projects.
-
-- 📁 Check out my [portfolio]() to explore my projects.
-
-- 💻 Explore my work on [GitHub](https://github.com/karshpreet)
-
-
+* ⚡**At the top of one mountain is the bottom of the next. As a tech enthusiast, I embrace every peak as a new beginning, continually evolving, learning, and pushing forward to conquer the next challenge.**
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Arshpreet4249" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/arshpreet-kaur-370462221/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100087928164532" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+</p>
 
+---
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
 
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+</p>
 
+---
 
-# Statistics 📈
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karshpreet&show_icons=true&locale=en&layout=compact" alt="karshpreet" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karshpreet&show_icons=true&locale=en" alt="karshpreet" /></p>
 
-
-![Arshpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=karshpreet&show_icons=true&theme=transparent)
-
-![](https://github-readme-streak-stats.herokuapp.com?user=karshpreet&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karshpreet&theme=tokyonight)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karshpreet&" alt="karshpreet" /></p>
 
 
