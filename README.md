@@ -1,85 +1,114 @@
-[![Neon Green Futuristic Twitch Banner](https://github.com/karshpreet/karshpreet/blob/ARSHPREET-KAUR/Arshpreet%20Bio.png?raw=true)]()
+[![Arshpreet's Journey](./arshpreet_github_profile.png)]()
 
-<h1 align="center">Hi 👋, I'm Arshpreet Kaur</h1>
-<h3 align="center">Goal-driven learner, embracing the journey!</h3>
+<h1 align="center" style="color:#5E548E;">🌸 Hey there, I'm Arshpreet Kaur 🌈</h1>
+<h3 align="center" style="color:#9F86C0;">A carefree tech explorer 🌻 | Builder of Ideas 💡 | Dream-chaser 💜</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karshpreet" alt="karshpreet" />
+---
+
+<div align="center">
+  <h2 style="color:#5E548E;" id="blog">📝 Latest from My Blog</h2>
+  <a href="https://medium.com/@karshpreet204" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium Icon"/>
+    <p style="color:#9F86C0;">Click to dive into my thoughts on tech & life!</p>
   </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-<!-- Visitor Badge -->
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=karshpreet&repo=github-visitors-badge&countColor=%237B1E7A)
-
-<!-- Portfolio (Not built yet) -->
-
-<!-- Medium profile not available yet -->
-
-* 📫 How to reach me **arshpreetkaur9243@gmail.com**
-
-* ⚡**At the top of one mountain is the bottom of the next. As a tech enthusiast, I embrace every peak as a new beginning, continually evolving, learning, and pushing forward to conquer the next challenge.**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Arshpreet4249" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/arshpreet-kaur-370462221/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100087928164532" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-</p>
+<div align="center">
+  <h2 style="color:#5E548E;">🎧 Now Playing on Spotify</h2>
+
+  <!-- Dynamic Now Playing Widget with soft background -->
+  <div style="background-color:#f3eaff; padding: 10px; border-radius: 15px; display:inline-block;">
+    <a href="https://open.spotify.com/user/31ytcfbd6aexmb3az3gf2g24i4hi" target="_blank">
+  </div>
+
+  <!-- Pastel Spotify Icon Below -->
+ 
+  <!-- Cute Vibe Icon Link to Specific Track -->
+  <br/>
+  <a href="https://open.spotify.com/track/7kUBxmoDggEF08ofrNjJ4E" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/000000/musical-notes.png" alt="Music Icon" width="40" style="margin-top:10px;" />
+  </a>
+  <p style="color:#9F86C0; font-style: italic;">Vibe with me 🎶</p>
+</div>
+
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-</p>
+<div align="center">
+  <h2 style="color:#5E548E;">✨ Let's Link Up</h2>
+  <p>
+    <a href="mailto:arshpreetkaur9243@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Chat-9F86C0?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Arshpreet4249" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-@ARSHPREET4249-B5838D?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/arshpreet-kaur-370462221/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Let's Connect-C49991?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/arshpreetkaur4249/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Pink Vibes-E5989B?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karshpreet&show_icons=true&locale=en&layout=compact" alt="karshpreet" /></p>
+<div align="center">
+  <h2 style="color:#5E548E;">🛠️ My Tech Playground</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-B5838D?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-CDB4DB?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-FFC8DD?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-EAC7C7?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-FFAFCC?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-B5EAD7?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-CAE9FF?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-CDB4DB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karshpreet&show_icons=true&locale=en" alt="karshpreet" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karshpreet&" alt="karshpreet" /></p>
+<div align="center">
+  <h2 style="color:#5E548E;">🌼 Quote I Live By</h2>
+  <blockquote style="color:#9F86C0; font-style: italic;">
+    “At the top of one mountain is the bottom of the next. 🌄 I'm all about the climb.”
+  </blockquote>
+</div>
 
+---
 
+<div align="center">
+  <h2 style="color:#5E548E;">📊 My Code Vibes</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=karshpreet&show_icons=true&theme=calm" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshpreet&layout=compact&theme=calm" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshpreet&theme=calm" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karshpreet&theme=calm" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3 style="color:#5E548E;">🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=karshpreet&theme=calm&margin-w=15&row=2&column=3" />
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color:#5E548E;">💜 Random Spark</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox-light" alt="Random Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=karshpreet&repo=github-visitors-badge&countColor=%239F86C0" />
+</div>
