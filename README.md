@@ -9,7 +9,8 @@
   <h2 style="color:#5E548E;" id="blog">📝 Latest from My Blog</h2>
   <a href="https://medium.com/@karshpreet204" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium Icon"/>
-    <p style="color:#9F86C0;">Click to dive into my thoughts on tech & life!</p>
+    <p style="color:#97b5a2; font-style: italic;">✨ Drift into my world of musings, moments & magic ✨</p>
+
   </a>
 </div>
 
