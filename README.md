@@ -1,4 +1,4 @@
-[![Arshpreet's Journey](./arshpreet_github_profile.png)]()
+[![Arshpreet's Journey](./Brown%20Modern%20Travel%20Facebook%20Cover.png)]()
 
 <h1 align="center" style="color:#5E548E;">🌸 Hey there, I'm Arshpreet Kaur 🌈</h1>
 <h3 align="center" style="color:#9F86C0;">A carefree tech explorer 🌻 | Builder of Ideas 💡 | Dream-chaser 💜</h3>
